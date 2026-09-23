@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#EEE4F9",
+        'primary': "#EEE4F9",
+        'secondary': "#2C83BB",
+        'offwhite': "#FFFFFF",
       },
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],
