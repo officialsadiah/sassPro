@@ -1,12 +1,12 @@
 import React from 'react'
 
-const Button = ({text,dynamicVal}) => {
+const Button = ({text,className }) => {
   return (
 
     <>
     <button className={`py-5 px-12 bg-secondary font-raleway font-semibold text-base
      text-offwhite rounded-md border border-transparent hover:bg-transparent hover:text-secondary
-     hover:border-secondary duration-300 ${dynamicVal}`}>{text}</button>
+     hover:border-secondary duration-300 ${className}`}>{text}</button>
     </>
   )
 }
