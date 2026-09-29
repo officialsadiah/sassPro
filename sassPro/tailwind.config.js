@@ -10,6 +10,7 @@ export default {
         'primary': "#EEE4F9",
         'secondary': "#2C83BB",
         'offwhite': "#FFFFFF",
+        'greenbg' : "#0D554C",
       },
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],

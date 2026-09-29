@@ -5,7 +5,7 @@ const ListItem = ({text,design,type}) => {
   return (
     <>
     <ul>
-          <li className={` text-base text-primary font-medium font-inter ${design}`}>
+          <li className={` text-base text-primary font-medium font-inter cursor-pointer ${design}`}>
           {text}
           
           {
@@ -17,4 +17,4 @@ const ListItem = ({text,design,type}) => {
   )
 }
 
-export default ListItem
+export default ListItem 
