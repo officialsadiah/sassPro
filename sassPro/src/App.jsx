@@ -4,6 +4,7 @@ import Banner from './assets/layouts/Banner'
 import About from './assets/layouts/About'
 import Industry from './assets/layouts/Industry'
 import Product from './assets/layouts/Product'
+import Engage from './assets/layouts/Engage'
 const App = () => {
   return (
     <>
@@ -12,6 +13,7 @@ const App = () => {
     <About/>
     <Industry/>
     <Product/>
+    <Engage/>
     </>
   )
 }
