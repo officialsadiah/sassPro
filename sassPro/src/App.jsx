@@ -3,6 +3,7 @@ import Navber from './assets/layouts/Navber'
 import Banner from './assets/layouts/Banner'
 import About from './assets/layouts/About'
 import Industry from './assets/layouts/Industry'
+import Product from './assets/layouts/Product'
 const App = () => {
   return (
     <>
@@ -10,6 +11,7 @@ const App = () => {
     <Banner/>
     <About/>
     <Industry/>
+    <Product/>
     </>
   )
 }

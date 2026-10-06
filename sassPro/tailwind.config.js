@@ -12,6 +12,8 @@ export default {
         'offwhite': "#FFFFFF",
         'greenbg' : "#0D554C",
         'Forthclr' : "#112F42",
+        'ppp' : "#495E6C",
+
       },
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],
